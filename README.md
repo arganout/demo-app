@@ -1,7 +1,7 @@
 # UserCRUDApp
 
 ## Setting up php-backend
-1. Clone the git repo 
+1. git Clone    
 ```bash
 https://github.com/arganout/demo-app
 ```
