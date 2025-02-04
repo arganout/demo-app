@@ -23,6 +23,9 @@ https://dev.mysql.com/downloads/installer/
 ```
 
 5. Start and enable the Mysql Server
+```bash
+net start mysql
+```
 6. Get client-id and client secret from google
    ```bash
    https://www.balbooa.com/help/gridbox-documentation/integrations/other/google-client-id
