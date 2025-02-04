@@ -1,11 +1,11 @@
 # UserCRUDApp
 
 ## Setting up php-backend
-Clone the git repo 
+1. Clone the git repo 
 ```bash
 https://github.com/arganout/demo-app
 ```
-2. Intall the dependencies
+2. Intall the dependencies 
 ```bash
 https://github.com/arganout/demo-app/blob/main/java-app/pom.xml
 ```
@@ -45,5 +45,5 @@ https://developers.google.com/oauthplayground/?code=4%2F0ASVgi3L6ptGdfwE009LJWxC
 ```
 9. Run the Project on Intellij IDEA and open postman to test the code and run the testing api api`s
     ```bash
-   https://docs.google.com/document/d/1zSUvnG8H9X2CRbzJO0xwT_HYYO8ANfMaQFHdS5HrpL4/edit?usp=sharing
+    https://docs.google.com/document/d/1zSUvnG8H9X2CRbzJO0xwT_HYYO8ANfMaQFHdS5HrpL4/edit?usp=sharing
    ```
