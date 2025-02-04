@@ -43,7 +43,7 @@ redis-server-ip=********
 ```bash
 https://developers.google.com/oauthplayground/?code=4%2F0ASVgi3L6ptGdfwE009LJWxCYpNXXKieJjQU7W1Mrkrhbh-dAtfy43uqutlvEhNDZ4g9-yw&scope=email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent
 ```
-9. Run the Project on Intelligi and open postman to test the code and run the testing api api`s
+9. Run the Project on Intellij IDEA and open postman to test the code and run the testing api api`s
     ```bash
    https://docs.google.com/document/d/1zSUvnG8H9X2CRbzJO0xwT_HYYO8ANfMaQFHdS5HrpL4/edit?usp=sharing
    ```
