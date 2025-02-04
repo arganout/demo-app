@@ -39,7 +39,7 @@ db-pass=*******;
 redis-server-ip=********
 ```
 
-8.  Oath token Generation for email verification
+8.  Oauth token Generation for email verification
 ```bash
 https://developers.google.com/oauthplayground/?code=4%2F0ASVgi3L6ptGdfwE009LJWxCYpNXXKieJjQU7W1Mrkrhbh-dAtfy43uqutlvEhNDZ4g9-yw&scope=email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent
 ```
