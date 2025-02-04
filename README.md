@@ -1,7 +1,7 @@
 # UserCRUDApp
 
 ## Setting up php-backend
-Clone the fit repo 
+Clone the git repo 
 ```bash
 https://github.com/arganout/demo-app
 ```
