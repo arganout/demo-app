@@ -27,10 +27,9 @@ https://dev.mysql.com/downloads/installer/
 net start mysql
 ```
 6. Get client-id and client secret from google
-   ```bash
-   https://www.balbooa.com/help/gridbox-documentation/integrations/other/google-client-id
-   ```
-
+```bash
+https://www.balbooa.com/help/gridbox-documentation/integrations/other/google-client-id
+```
 7. setup enviromental variables on intelligi for mysql pass , redis port and client-id and client secret from google
 ```bash
 client-id=434649843010-7v7cvutgtfucnsj1q4ng2mmdho.apps.googleusercontent.com;
@@ -44,6 +43,6 @@ redis-server-ip=********
 https://developers.google.com/oauthplayground/?code=4%2F0ASVgi3L6ptGdfwE009LJWxCYpNXXKieJjQU7W1Mrkrhbh-dAtfy43uqutlvEhNDZ4g9-yw&scope=email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent
 ```
 9. Run the Project on Intellij IDEA and open postman to test the code and run the testing api api`s
-    ```bash
-    https://docs.google.com/document/d/1zSUvnG8H9X2CRbzJO0xwT_HYYO8ANfMaQFHdS5HrpL4/edit?usp=sharing
-   ```
+```bash
+https://docs.google.com/document/d/1zSUvnG8H9X2CRbzJO0xwT_HYYO8ANfMaQFHdS5HrpL4/edit?usp=sharing
+```
