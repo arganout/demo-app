@@ -22,7 +22,7 @@ https://naveenrenji.medium.com/install-redis-on-windows-b80880dc2a36
 https://dev.mysql.com/downloads/installer/
 ```
 
-5. Start and enable the Mysql Server
+5. Start and enable the Mysql Server(Need Admin privelage)
 ```bash
 net start mysql
 ```
